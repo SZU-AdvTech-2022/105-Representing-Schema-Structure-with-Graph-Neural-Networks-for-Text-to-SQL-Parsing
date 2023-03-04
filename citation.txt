@@ -1,8 +1,8 @@
-@article{10.18653/v1/P19-1448,
-author = {Ben Bogin, Matt Gardner, Jonathan Berant},
-title = {Representing Schema Structure with Graph Neural Networks for Text-to-SQL Parsing},
-journal = {Association for Computational Linguistics},
-year = {2019},
-volume = {57},
-number = {4}
+@article{REPO-106,
+    author = "Ben Bogin, Matt Gardner, Jonathan Berant",
+    journal = "Association for Computational Linguistics",
+    number = "4",
+    title = "{Representing Schema Structure with Graph Neural Networks for Text-to-SQL Parsing}",
+    volume = "57",
+    year = "2019"
 }
